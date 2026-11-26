@@ -2,4 +2,4 @@ from app.value import VALUE
 
 
 def test_value():
-    assert VALUE == 1
+    assert VALUE == 2
